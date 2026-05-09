@@ -26,9 +26,7 @@ The project combines:
 
 ## Dataset
 
-This project uses the PhysioNet 2019 Sepsis Challenge dataset:
-
-https://www.kaggle.com/datasets/salikhussaini49/physionet-2019-challenge-dataset
+This project uses the PhysioNet 2019 Sepsis Challenge dataset.
 
 Each patient file contains hourly ICU physiological measurements including:
 - Heart Rate (HR)
