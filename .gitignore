@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+
+# Large raw datasets
+data/raw/training_setA/
+data/raw/training_setB/
+
+# Optional large exports
+*.h5
+*.feather
